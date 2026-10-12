@@ -2,4 +2,6 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: NIEUSTALONA
+Decyzja wdrożeniowa: NIEUSTALONA 
+
+Koordynator: phanesage
