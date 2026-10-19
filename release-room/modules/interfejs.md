@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
+Odpowiedzialny: Osoba A aka menadzer aka goat phanesage
+Stan: Gotowy
 Opis zmiany: BRAK
