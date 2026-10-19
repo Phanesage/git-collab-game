@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
+Odpowiedzialny: Osoba B aka Depson420
+Stan: Gotowy
 Opis zmiany: BRAK
